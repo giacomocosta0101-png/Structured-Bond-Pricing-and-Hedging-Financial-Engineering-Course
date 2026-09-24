@@ -5,3 +5,20 @@
 *.mat
 *.mex*
 resources/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- MATLAB ---
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
